@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "java.project.outputPath": "bin",
+    "editor.formatOnSave": true,
+    "[java]": {
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+      },
+      "editor.defaultFormatter": "redhat.java"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "vscjava.vscode-java-pack",
+      "redhat.java",
+      "microsoft.java-debug"
+    ]
+  }
+}
