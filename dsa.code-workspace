@@ -5,8 +5,11 @@
     }
   ],
   "settings": {
-    "java.project.outputPath": "bin",
     "editor.formatOnSave": true,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": ["src"],
+    "java.project.referencedLibraries": ["lib/**/*.jar"],
     "[java]": {
       "editor.codeActionsOnSave": {
         "source.organizeImports": "explicit"
